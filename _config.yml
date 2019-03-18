@@ -31,16 +31,13 @@ disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Safa Shubbar
+  job: PhD student
+  bio: "I am second year PhD student, I am advised by Prof. Qiang Guan. Bioinformatics is a fascinating field for me because working with biological data and algorithms is something important to me and to society."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: sshubbar@kent.edu
+  github: https://github.com/safashubbar
+  linkedin: https://linkedin.com/in/sshubbar
 
 # navbar pages
 navbar:
